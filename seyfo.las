@@ -1,0 +1,70 @@
+  0
+LAYERSTATEDICTIONARY
+  0
+LAYERSTATE
+  1
+seyfo
+ 91
+2047
+301
+
+290
+0
+302
+0
+  8
+Layer3
+ 90
+24
+ 62
+179
+370
+50
+  6
+Continuous
+  2
+Color_179
+440
+0
+  8
+Layer2
+ 90
+28
+ 62
+70
+370
+-3
+  6
+Continuous
+  2
+Color_70
+440
+0
+  8
+Layer1
+ 90
+24
+ 62
+240
+370
+-3
+  6
+BATTING
+  2
+Color_240
+440
+0
+  8
+0
+ 90
+8
+ 62
+7
+370
+-3
+  6
+Continuous
+  2
+Color_7
+440
+0
